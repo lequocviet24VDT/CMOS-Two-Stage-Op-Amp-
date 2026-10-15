@@ -1,0 +1,40 @@
+LTspice 26.0.1 for Windows
+Circuit: D:\LTspice\Op-amp two stage.net
+Start Time: Thu Oct 15 15:10:32 2026
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n004 is floating.
+WARNING: Node n005 is floating.
+WARNING: Node n013 is floating.
+WARNING: Node n008 is floating.
+WARNING: Node n007 is floating.
+WARNING: Node n014 is floating.
+WARNING: Node n015 is floating.
+
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.357 seconds.
+
+Files loaded:
+D:\LTspice\Op-amp two stage.net
+C:\Users\DELL\AppData\Local\LTspice\lib\cmp\standard.mos
+D:\LTspice\180nm_tsmc.lib
+
